@@ -1,2 +1,2 @@
 # kaggle
-1) Titanic dataset, IPython notbook.
+1) Titanic dataset, IPython notebook.
