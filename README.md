@@ -1,2 +1,2 @@
 # kaggle
-kaggle comps
+1) Titanic dataset, IPython notbook.
